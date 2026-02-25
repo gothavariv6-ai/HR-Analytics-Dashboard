@@ -29,3 +29,4 @@ Helps HR teams monitor workforce distribution, optimize hiring channels, and ana
 ---
  File Included:
 - HR_Dashboard.pbix
+- HR dashboard (screen shot)
